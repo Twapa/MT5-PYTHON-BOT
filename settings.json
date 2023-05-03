@@ -1,0 +1,13 @@
+{
+    "EURUSD" :  { "pair" :  "EURUSD", "units": 1, "short_ma": 2, "long_ma": 6 },
+    
+    "AUDUSD" :  { "pair" :  "AUDUSD", "units": 1, "short_ma": 2, "long_ma": 6 },
+    "GBPUSD" :  { "pair" :  "GBPUSD", "units": 1, "short_ma": 2, "long_ma": 6 },
+    
+    "EURGBP" :  { "pair" :  "EURGBP", "units": 1, "short_ma": 2, "long_ma": 6 }
+    
+}
+
+
+
+    
